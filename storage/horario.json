@@ -1,0 +1,18 @@
+[
+    {
+      "NombreJornada": "Mañana",
+      "Codigo": 1,
+      "Hora": {
+        "HoraInicio": "6:00 am",
+        "HoraFinal": "2:00 pm"
+      }
+    },
+    {
+      "NombreJornada": "Tarde",
+      "Codigo": 2,
+      "Hora":{
+        "HoraInicio": "2:00 pm",
+        "HoraFinal": "10:00 pm"
+      }
+    }
+  ]
